@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Branch",
+            "request": "launch",
+            "mainClass": "Branch",
+            "projectName": "javaproject_16a76f4b"
+        },
+        {
+            "type": "java",
+            "name": "Doctor",
+            "request": "launch",
+            "mainClass": "Doctor",
+            "projectName": "javaproject_16a76f4b"
+        },
+        {
+            "type": "java",
+            "name": "Nurses",
+            "request": "launch",
+            "mainClass": "Nurses",
+            "projectName": "javaproject_16a76f4b"
+        },
+        {
+            "type": "java",
+            "name": "class1",
+            "request": "launch",
+            "mainClass": "class1",
+            "projectName": "javaproject_16a76f4b"
+        }
+    ]
+}
